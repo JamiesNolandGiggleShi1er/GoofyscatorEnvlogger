@@ -1,0 +1,10 @@
+# -- made by jamie @_jmi. OR @jmialt_ (JOIN OMNI DBF (https://dsc.gg/odbf))
+__pycache__/
+*.pyc
+*.pyo
+*.trace.txt
+*_decompiled.lua
+.venv/
+.env
+.DS_Store
+tools/
