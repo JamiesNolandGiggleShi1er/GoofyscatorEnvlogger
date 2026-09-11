@@ -1,5 +1,5 @@
 <!-- made by jamie @_jmi. OR @jmialt_ (JOIN OMNI DBF (https://dsc.gg/odbf)) -->
-# goofyscator v10 deobf
+# goofyscator v10 fucking
 
 yo this rips goofyscator v10 (spectra) stuff yk just runs the obf file under lune with a fake roblox env and dumps what it prints. no key or whatever.
 
@@ -34,3 +34,4 @@ print(r["output"], r["behaviors"], r["strings"])
 MIT - see LICENSE - made by jamie @_jmi. OR @jmialt_ (JOIN OMNI DBF (https://dsc.gg/odbf))
 
 GIVE FRICKING CREDITS
+AND ITS NOT GOOD RN ITS STILL SHIT
