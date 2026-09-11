@@ -1,7 +1,7 @@
 <!-- made by jamie @_jmi. OR @jmialt_ (JOIN OMNI DBF (https://dsc.gg/odbf)) -->
 # goofyscator v10 deobf
 
-yo this rips goofyscator v10 (spectra) stuff yk, just runs the obf file under lune with a fake roblox env and dumps what it prints. no key or whatever.
+yo this rips goofyscator v10 (spectra) stuff yk just runs the obf file under lune with a fake roblox env and dumps what it prints. no key or whatever.
 
 ## what u need
 - python 3.8+
@@ -32,3 +32,5 @@ print(r["output"], r["behaviors"], r["strings"])
 
 ## license
 MIT - see LICENSE - made by jamie @_jmi. OR @jmialt_ (JOIN OMNI DBF (https://dsc.gg/odbf))
+
+GIVE FRICKING CREDITS
